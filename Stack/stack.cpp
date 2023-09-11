@@ -3,7 +3,6 @@
 #define SIZE 10
 int Top=-1;
 int stack[SIZE];
-//#define Top -1
 // implementig Stack
 void push();
 void pop();
